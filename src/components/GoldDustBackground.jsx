@@ -119,3 +119,8 @@ const GoldDustBackground = ({ mousePos }) => {
 };
 
 export default GoldDustBackground;
+
+
+
+
+ 

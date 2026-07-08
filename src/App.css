@@ -15,13 +15,20 @@
 
 html.light {
   --bg-primary: #f5f0e6;
-  --bg-card: rgba(255, 255, 255, 0.85);
-  --text-primary: #1a2332;
-  --text-secondary: #4a5568;
-  --text-muted: #718096;
-  --border-color: rgba(212, 157, 39, 0.35);
+  --bg-card: rgba(255, 255, 255, 0.92);
+  --text-primary: #121212;
+  --text-secondary: #3d3d3d;
+  --text-muted: #6b6b6b;
+  --border-color: rgba(184, 150, 46, 0.35);
   --input-bg: rgba(0, 0, 0, 0.04);
-  --overlay: rgba(245, 240, 230, 0.3);
+  --overlay: rgba(245, 240, 230, 0.5);
+}
+
+html.light h1,
+html.light h2,
+html.light h3,
+html.light h4 {
+  color: #121212;
 }
 
 /* ===== GENEL ===== */
